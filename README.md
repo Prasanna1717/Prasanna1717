@@ -10,6 +10,7 @@ From integrating multi-agent systems with persistent memory and tool-use capabil
 ⸻
 
 #🛠 Current Focus
+
 	•	Agentic AI Engineering — Designing multi-agent frameworks with OpenAI SDK, Azure integration, MCP servers, and PostgreSQL context stores.
 	•	LLMOps — Building pipelines for LLM applications, memory management, and tool integration at scale.
 	•	RAG-based Conversational Systems — Creating retrieval-augmented generation pipelines with domain-specific knowledge bases.
@@ -19,6 +20,7 @@ From integrating multi-agent systems with persistent memory and tool-use capabil
 ⸻
 
 #💡 Notable Projects
+
 	•	Conversational RAG Agents — Multi-agent Azure deployment with structured reasoning, REST API interface, and PostgreSQL-powered memory.
 	•	MCP-Integrated Agent Framework — Remote MCP server list and tool orchestration for AI agent task execution.
 	•	Forest Monitoring AI Dashboard — LoRaWAN + AI data insights for NGOs, animated dashboard with real-time updates.
@@ -27,6 +29,7 @@ From integrating multi-agent systems with persistent memory and tool-use capabil
 ⸻
 
 #📚 Skills Snapshot
+
 	•	AI/ML — Python, LLMOps, MLOps, NLP, Computer Vision, RAG, Agentic AI
 	•	Cloud & Infra — Azure, Docker, Kubernetes (learning), AsyncIO pipelines
 	•	IoT & Embedded — LoRaWAN, RAK4630 ecosystem, sensor fusion, binary payload transmission
